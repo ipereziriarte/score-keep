@@ -20,5 +20,8 @@
         "react"
     ],
     "rules": {
+    },
+    "settings": {
+        "import/resolver": "meteor"
     }
 }
