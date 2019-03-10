@@ -2,9 +2,10 @@
     "env": {
         "browser": true,
         "es6": true,
-        "node": true
+        "node": true,
+        "meteor": true
     },
-    "extends": "airbnb",
+    "extends": "@meteorjs/eslint-config-meteor",
     "globals": {
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly"
