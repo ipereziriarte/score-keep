@@ -12,7 +12,8 @@
     "meteor-node-stubs": "^0.4.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.3",
-    "react-dom": "^16.8.3"
+    "react-dom": "^16.8.3",
+    "react-flip-move": "^3.0.3"
   },
   "meteor": {
     "mainModule": {
