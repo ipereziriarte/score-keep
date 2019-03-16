@@ -1,5 +1,5 @@
 .button {
-  background: white;
+  background: transparent;
   border: 1px solid #555555;
   color: #555555;
   cursor: pointer;
@@ -12,7 +12,7 @@
 
   &:hover,
   &:focus {
-    background: #e8e8ee;
+    background: rgba(0, 0, 0, 0.1);
   }
 
   &:active {
